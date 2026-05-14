@@ -1,18 +1,20 @@
-# Quiz / Test — Microblading + Microshading Slide 14
+# MICROBLADING ET MICROSHADING — Slide 14
 
-**Course:** MICROBLADING + MICROSHADING  
-**Slide:** 14  
-**Live URL:** https://testi.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-A quiz or test module near the end of the combined microblading and microshading course that assesses learners' knowledge across the key topics covered throughout the module. Tests understanding of technique differences, contraindications, pigment selection, and protocol steps. Positioned at slide 14, this assessment helps both learners and instructors identify knowledge gaps before the learner completes the course.
+**Course:** MICROBLADING ET MICROSHADING
+**Slide:** 14
+**Live URL:** https://testi.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![testi](./screenshot.png)
+![testi](https://github.com/youssefbarj/testi/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
