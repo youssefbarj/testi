@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![testi](https://github.com/youssefbarj/testi/raw/main/screenshot.png)
+![testi](https://raw.githubusercontent.com/youssefbarj/testi/main/screenshot.png)
 
 ## What this slide does
 
